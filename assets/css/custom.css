@@ -1,6 +1,32 @@
 /* custom CSS */
 
 body {
-	background-color:salmon;
+	background-color:MidnightBlue;
 
+}
+
+#header h1 {
+	color:DarkGreen;
+
+}
+
+#header p {
+	color:Grey;
+}
+
+
+ a:hover{
+	color:Crimson;
+}
+
+a:hover strong {
+	color:Black;
+}
+
+h2 {
+	color:MidnightBlue;
+}
+
+strong, b {
+	color: DarkRed;
 }
