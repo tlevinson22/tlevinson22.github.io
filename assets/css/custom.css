@@ -30,3 +30,8 @@ h2 {
 strong, b {
 	color: DarkRed;
 }
+
+.image img {
+	display:block;
+	width: 100%;
+}
